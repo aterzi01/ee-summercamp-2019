@@ -1,0 +1,13 @@
+.app-header-nav {
+  height: 400px;
+}
+.app-body {
+  display: grid;
+  padding: 10px;
+  grid-template-columns: 70% 30%;
+  grid-gap: 10px;
+  background-image: url(https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/50/2017/02/face-creams-920x920.jpg);
+}
+.app-aside1 {
+  padding-right: 25px;
+}

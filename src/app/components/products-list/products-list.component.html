@@ -1,0 +1,26 @@
+<div class="ul">
+  <ul id="myUL" *ngFor="let product of products" style="list-style-type:none">
+    <li class="product-container">
+      <div class="product-header">
+        <a routerLink="/details/{{ product.id }}">{{ product.title }}</a>
+        <app-favorite-add [product]="product"></app-favorite-add>
+      </div>
+
+      <div class="product-body">
+        <img src="../../assets/img/{{ product.img }}" />
+      </div>
+      <div class="price">{{ product.price }}.00 kn</div>
+
+      <div><app-grades [productG]="product"></app-grades></div>
+
+      <div class="product-footer">
+        <button
+          routerLink="/details/{{ product.id }}"
+          class="w3-button  w3-center w3-black w3-round-small"
+        >
+          PROČITAJTE VIŠE
+        </button>
+      </div>
+    </li>
+  </ul>
+</div>

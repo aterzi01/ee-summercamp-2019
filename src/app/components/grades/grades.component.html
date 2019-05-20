@@ -1,0 +1,15 @@
+<div class="grades-container">
+  <div>
+    <h3>OCJENA</h3>
+    <b class="product-grade">{{ getGrade() | number: '1.0-2' }} </b> od 5 (na
+    temelju <span class="grades-counter">{{ ocjena.length }}</span> recenzija)
+  </div>
+
+  <div>
+    <button (click)="clicked(1)">1</button>
+    <button (click)="clicked(2)">2</button>
+    <button (click)="clicked(3)">3</button>
+    <button (click)="clicked(4)">4</button>
+    <button (click)="clicked(5)">5</button>
+  </div>
+</div>

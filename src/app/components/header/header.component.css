@@ -1,0 +1,17 @@
+.MainHeader {
+  display: grid;
+  grid-template-rows: 70% 30%;
+  grid-gap: 10px;
+}
+header {
+  padding: 10px;
+  color: white;
+  height: 300px;
+  width: 100%;
+  background-image: url('https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/46294137_1792330564211209_6672169576223997952_n.jpg?_nc_cat=111&_nc_ht=scontent-vie1-1.xx&oh=1604038751fd6eed7eca2a8f062d088e&oe=5CF734D8');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+header > * {
+  margin: 5px;
+}

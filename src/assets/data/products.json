@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "title": "ATOMIC",
+    "img": "atomic.jpg",
+    "description": "Lorem ipsum dolor sit amet, mel dolorem platonem qualisque ea, per ex quando persecuti complectitur, probo detraxit no est. Aeterno corpora ponderum no vis, adhuc minimum invidunt his ei, ex quaestio torquatos nam. Adipisci sapientem ei vim, scripserit consequuntur nam ei. Sed scripta corrumpit an, id dicunt discere qui, tempor repudiare mnesarchum vis ei. Ea sit propriae eleifend scribentur, mazim feugiat accusam ne has. Ex vim alia latine scripserit. Nec eu percipit reprehendunt, at copiosae eloquentiam reformidans per. Sea animal tibique no, no option maluisset consequuntur mel, sumo fierent delicatissimi at cum. Admodum posidonium eu his, nam debitis fuisset id. Justo audire incorrupte ea mei. Te erant impedit consequat sed. Dicam atomorum disputationi eu per. No vel laudem mentitum quaestio, sea at falli libris bonorum. In apeirian senserit eum, per id utamur nostrum, usu ei placerat reprimique. Et per graeci rationibus consetetur, ius ad tamquam erroribus. Eu vis probo labores euripidis, ut vim dicit laboramus comprehensam, no exerci vocibus vis. Est phaedrum disputationi ad.",
+    "grade": [1, 3, 5],
+    "comments": [
+      {
+        "user": "Ana",
+        "comment": "Jako sam zadovoljna."
+      },
+      {
+        "user": "Petra",
+        "comment": "Laži i obmane"
+      }
+    ],
+    "favorite": false,
+    "price": 149.0
+  },
+  {
+    "id": 2,
+    "title": "CLARION",
+    "img": "clarion.jpg",
+    "description": "Lorem ipsum dolor sit amet, mel dolorem platonem qualisque ea, per ex quando persecuti complectitur, probo detraxit no est. Aeterno corpora ponderum no vis, adhuc minimum invidunt his ei, ex quaestio torquatos nam. Adipisci sapientem ei vim, scripserit consequuntur nam ei. Sed scripta corrumpit an, id dicunt discere qui, tempor repudiare mnesarchum vis ei. Ea sit propriae eleifend scribentur, mazim feugiat accusam ne has. Ex vim alia latine scripserit. Nec eu percipit reprehendunt, at copiosae eloquentiam reformidans per. Sea animal tibique no, no option maluisset consequuntur mel, sumo fierent delicatissimi at cum. Admodum posidonium eu his, nam debitis fuisset id. Justo audire incorrupte ea mei. Te erant impedit consequat sed. Dicam atomorum disputationi eu per. No vel laudem mentitum quaestio, sea at falli libris bonorum. In apeirian senserit eum, per id utamur nostrum, usu ei placerat reprimique. Et per graeci rationibus consetetur, ius ad tamquam erroribus. Eu vis probo labores euripidis, ut vim dicit laboramus comprehensam, no exerci vocibus vis. Est phaedrum disputationi ad.",
+    "grade": [1, 3, 5],
+    "comments": [
+      {
+        "user": "Ivana",
+        "comment": "Brzo djeluje."
+      },
+      {
+        "user": "Gloria",
+        "comment": "Na prirodnoj bazi."
+      }
+    ],
+    "favorite": false,
+    "price": 149.0
+  },
+  {
+    "id": 3,
+    "title": "HYDRA B",
+    "img": "hydraB.jpg",
+    "description": "Lorem ipsum dolor sit amet, mel dolorem platonem qualisque ea, per ex quando persecuti complectitur, probo detraxit no est. Aeterno corpora ponderum no vis, adhuc minimum invidunt his ei, ex quaestio torquatos nam. Adipisci sapientem ei vim, scripserit consequuntur nam ei. Sed scripta corrumpit an, id dicunt discere qui, tempor repudiare mnesarchum vis ei. Ea sit propriae eleifend scribentur, mazim feugiat accusam ne has. Ex vim alia latine scripserit. Nec eu percipit reprehendunt, at copiosae eloquentiam reformidans per. Sea animal tibique no, no option maluisset consequuntur mel, sumo fierent delicatissimi at cum. Admodum posidonium eu his, nam debitis fuisset id. Justo audire incorrupte ea mei. Te erant impedit consequat sed. Dicam atomorum disputationi eu per. No vel laudem mentitum quaestio, sea at falli libris bonorum. In apeirian senserit eum, per id utamur nostrum, usu ei placerat reprimique. Et per graeci rationibus consetetur, ius ad tamquam erroribus. Eu vis probo labores euripidis, ut vim dicit laboramus comprehensam, no exerci vocibus vis. Est phaedrum disputationi ad.",
+    "grade": [5, 5, 5],
+    "comments": [
+      {
+        "user": "Kate",
+        "comment": "Nisam bila nikad  zadovoljnija."
+      }
+    ],
+    "favorite": false,
+    "price": 149.0
+  },
+  {
+    "id": 4,
+    "title": "LUMION",
+    "img": "lumion.jpg",
+    "description": "Lorem ipsum dolor sit amet, mel dolorem platonem qualisque ea, per ex quando persecuti complectitur, probo detraxit no est. Aeterno corpora ponderum no vis, adhuc minimum invidunt his ei, ex quaestio torquatos nam. Adipisci sapientem ei vim, scripserit consequuntur nam ei. Sed scripta corrumpit an, id dicunt discere qui, tempor repudiare mnesarchum vis ei. Ea sit propriae eleifend scribentur, mazim feugiat accusam ne has. Ex vim alia latine scripserit. Nec eu percipit reprehendunt, at copiosae eloquentiam reformidans per. Sea animal tibique no, no option maluisset consequuntur mel, sumo fierent delicatissimi at cum. Admodum posidonium eu his, nam debitis fuisset id. Justo audire incorrupte ea mei. Te erant impedit consequat sed. Dicam atomorum disputationi eu per. No vel laudem mentitum quaestio, sea at falli libris bonorum. In apeirian senserit eum, per id utamur nostrum, usu ei placerat reprimique. Et per graeci rationibus consetetur, ius ad tamquam erroribus. Eu vis probo labores euripidis, ut vim dicit laboramus comprehensam, no exerci vocibus vis. Est phaedrum disputationi ad.",
+    "grade": [4, 3, 5],
+    "comments": [
+      {
+        "user": "Petra",
+        "comment": "Laži i obmane"
+      }
+    ],
+    "favorite": false,
+    "price": 149.0
+  },
+  {
+    "id": 5,
+    "title": "LUNAR",
+    "img": "lunar.jpg",
+    "description": "Lorem ipsum dolor sit amet, mel dolorem platonem qualisque ea, per ex quando persecuti complectitur, probo detraxit no est. Aeterno corpora ponderum no vis, adhuc minimum invidunt his ei, ex quaestio torquatos nam. Adipisci sapientem ei vim, scripserit consequuntur nam ei. Sed scripta corrumpit an, id dicunt discere qui, tempor repudiare mnesarchum vis ei. Ea sit propriae eleifend scribentur, mazim feugiat accusam ne has. Ex vim alia latine scripserit. Nec eu percipit reprehendunt, at copiosae eloquentiam reformidans per. Sea animal tibique no, no option maluisset consequuntur mel, sumo fierent delicatissimi at cum. Admodum posidonium eu his, nam debitis fuisset id. Justo audire incorrupte ea mei. Te erant impedit consequat sed. Dicam atomorum disputationi eu per. No vel laudem mentitum quaestio, sea at falli libris bonorum. In apeirian senserit eum, per id utamur nostrum, usu ei placerat reprimique. Et per graeci rationibus consetetur, ius ad tamquam erroribus. Eu vis probo labores euripidis, ut vim dicit laboramus comprehensam, no exerci vocibus vis. Est phaedrum disputationi ad.",
+    "grade": [2, 5, 5],
+    "comments": [
+      {
+        "user": "Tea",
+        "comment": "Brzo i ucinkovito."
+      },
+      {
+        "user": "Zana",
+        "comment": "Iznenadena sam ugodno."
+      },
+      {
+        "user": "Petra",
+        "comment": "Laži i obmane"
+      }
+    ],
+    "favorite": false,
+    "price": 149.0
+  },
+  {
+    "id": 6,
+    "title": "NARO",
+    "img": "naro.jpg",
+    "description": "Lorem ipsum dolor sit amet, mel dolorem platonem qualisque ea, per ex quando persecuti complectitur, probo detraxit no est. Aeterno corpora ponderum no vis, adhuc minimum invidunt his ei, ex quaestio torquatos nam. Adipisci sapientem ei vim, scripserit consequuntur nam ei. Sed scripta corrumpit an, id dicunt discere qui, tempor repudiare mnesarchum vis ei. Ea sit propriae eleifend scribentur, mazim feugiat accusam ne has. Ex vim alia latine scripserit. Nec eu percipit reprehendunt, at copiosae eloquentiam reformidans per. Sea animal tibique no, no option maluisset consequuntur mel, sumo fierent delicatissimi at cum. Admodum posidonium eu his, nam debitis fuisset id. Justo audire incorrupte ea mei. Te erant impedit consequat sed. Dicam atomorum disputationi eu per. No vel laudem mentitum quaestio, sea at falli libris bonorum. In apeirian senserit eum, per id utamur nostrum, usu ei placerat reprimique. Et per graeci rationibus consetetur, ius ad tamquam erroribus. Eu vis probo labores euripidis, ut vim dicit laboramus comprehensam, no exerci vocibus vis. Est phaedrum disputationi ad.",
+    "grade": [2, 3, 1],
+    "comments": [
+      {
+        "user": "Zana",
+        "comment": "Iznenadena sam ugodno."
+      }
+    ],
+    "favorite": false,
+    "price": 149.0
+  }
+]

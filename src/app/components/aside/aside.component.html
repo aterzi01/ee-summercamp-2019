@@ -1,0 +1,23 @@
+<div class="list-of-products">
+  <div class="list-header">
+    <h2><b>FAVORITI</b></h2>
+    <i class="fa fa-heart-o" style="font-size:48px;color:red"></i>
+  </div>
+  <div class="list-body">
+    <div class="product" *ngFor="let product of favProducts">
+      <img
+        src="../../assets/img/{{ product.img }}"
+        height="150px"
+        width="100"
+      />
+      <div class="aside-inf">
+        <span style="font-size: 30px;">{{ product.title }}</span> <br />
+        <span
+          style="color: #007bff;
+        font-size: 30px;"
+          >{{ product.price }}.00 kn</span
+        >
+      </div>
+    </div>
+  </div>
+</div>

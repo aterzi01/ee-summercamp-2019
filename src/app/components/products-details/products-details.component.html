@@ -1,0 +1,23 @@
+<div class="product" *ngIf="product">
+  <div class="product-header">
+    <h2>
+
+      <b>{{ product.title }}</b>
+    </h2>
+    <app-favorite-add [product]="product"></app-favorite-add>
+  </div>
+  <div class="product-body">
+    <img src="../../../assets/img/{{ product.img }}" height="500px" />
+    <p>{{ product.description }}</p>
+  </div>
+  <div class="product-comment">
+    <br />
+    <app-comments [productC]="product"></app-comments>
+    <app-grades [productG]="product"></app-grades>
+  </div>
+  <div class="product-footer">
+    <button (click)="goBack()" class="w3-bar-item w3-button w3-black">
+      BACK
+    </button>
+  </div>
+</div>

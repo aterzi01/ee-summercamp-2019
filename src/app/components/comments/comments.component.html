@@ -1,0 +1,6 @@
+<div class="comments">
+  <h3>KOMENTARI OSTALIH KORISNIKA</h3>
+  <div class="comment" *ngFor="let comment of productC.comments">
+    <i class="fa fa-male"></i> <b>{{ comment.user }}</b> : {{ comment.comment }}
+  </div>
+</div>
